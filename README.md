@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Kras-Dev)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Kras-Dev&hide_progress=true)](https://github.com/stats-organization/github-stats-extended)
 
