@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Kras-Dev&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Kras-Dev&show=langs)
 
